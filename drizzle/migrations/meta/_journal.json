@@ -1,0 +1,27 @@
+{
+  "version": "5",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1712113487752,
+      "tag": "0000_wakeful_stone_men",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1712127134035,
+      "tag": "0001_brainy_sersi",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1712128095158,
+      "tag": "0002_lonely_shooting_star",
+      "breakpoints": true
+    }
+  ]
+}
